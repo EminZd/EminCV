@@ -1,0 +1,77 @@
+img{
+	width: 200px;
+	height: 200px;
+	margin: 30px 0 50px 50px;
+	border-radius: 50%;
+	position: right;
+	top: 50px;
+	left: 70px;
+	border: 5px solid #5d8aa8; 
+	box-shadow: 3px 3px 10px gray;
+	cursor: pointer;
+	transition: .5s;
+	user-select: none;
+	
+}
+
+h1,h2{
+	padding: 5px 10px;
+	margin: 30px 0 50px 50px;
+	border-radius: 3%;
+	border: 5px solid #5d8aa8;
+	box-shadow: 3px 3px 10px gray;
+	color: white;
+	font-family: "Times New Romans"; 
+	background-color: #5d8aa8; 
+	width: 475px;
+	cursor: default;
+
+}
+body{
+font-family: "Calibri";
+background-color: #f0f8ff;
+cursor: default;
+}
+button{
+	font-size: 25px;
+	padding: 10px 20px;
+	margin: 30px 0 50px 50px;
+	background-color: #5d8aa8;
+	border: none;
+	outline: none;
+	color: white;
+	border-radius: 10px;
+	box-shadow: 0 0 10px gray;
+	cursor: pointer;
+	transition: .5s;
+}
+button:hover{
+	background-color: black;
+	box-shadow: 0 0 30px gray;
+
+
+}
+
+/* 
+Name: Emin Ždralović
+Course: CS412
+Assignemnt: Assignment 3
+Due Date: 17.12.2020.
+Purpose: 
+Dear Students,
+Please submit project 3 here.
+Files and links to submit: 
+HTML files.
+CSS files.
+JS files.
+Github pages link. (Not github repository link)
+Please Do not submit: 
+Zip files
+Rar files
+images, photos, .....
+Assessment criteria:
+1 point for HTML.
+1. point for CSS.
+2 point for JS.
+1 point for github pages link.
+*/
